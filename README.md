@@ -9,8 +9,10 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
 1. **Clone o repositório**
 2. **Instale as dependências**
- npm install
+
+`npm install`
 
 3. **Execute os testes**
-npm run test
+
+`npm run test`
 
